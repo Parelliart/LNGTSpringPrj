@@ -1,0 +1,6 @@
+com\pluralsight\springdataoverview\entity\GuaranteeRequest.class
+com\pluralsight\springdataoverview\repository\DeleteByOriginRepository.class
+com\pluralsight\springdataoverview\entity\LoanRequest.class
+com\pluralsight\springdataoverview\SpringDataOverviewApplication.class
+com\pluralsight\springdataoverview\repository\DeleteByOriginRepositoryImpl.class
+com\pluralsight\springdataoverview\repository\GuaranteeRequestRepository.class

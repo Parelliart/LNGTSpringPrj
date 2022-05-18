@@ -1,0 +1,4 @@
+com\pluralsight\springdataoverview\CustomImplTests.class
+com\pluralsight\springdataoverview\PagingAndSortingTests.class
+com\pluralsight\springdataoverview\CrudTests.class
+com\pluralsight\springdataoverview\DerivedQueryTests.class
