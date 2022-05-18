@@ -25,7 +25,7 @@ public class CrudTests {
 
 		final GuaranteeRequest guaranteeRequest =  new GuaranteeRequest();
 		guaranteeRequest.setSEPAM_CODE("0111199637066675");
-		guaranteeRequest.setCUSTOMS_GUARANTEE_NUMBER("0");
+		guaranteeRequest.setCUSTOMS_GUARANTEE_NUMBER("0111");
 		guaranteeRequest.setSTAKEHOLDER_DATE(LocalDateTime.parse("2022-05-13T12:12:00"));
 
 		guaranteeRequestRepository.save(guaranteeRequest);
